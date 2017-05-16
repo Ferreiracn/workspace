@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1599" lt="963" ts="1494600693970" s="true" lb="Home Page" rc="200" rm="OK" tn="Testing Diaries 1-1" dt="text" by="43095">
+  <httpSample t="963" lt="963" ts="1494600693970" s="true" lb="http://testingdiaries.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="348"/>
+  <httpSample t="634" lt="322" ts="1494600694935" s="true" lb="http://www.testingdiaries.com/" rc="200" rm="OK" tn="Testing Diaries 1-1" dt="text" by="43445"/>
+</httpSample>
+<httpSample t="322" lt="166" ts="1494600695575" s="true" lb="Manual Testing Category Page" rc="200" rm="OK" tn="Testing Diaries 1-1" dt="text" by="42380"/>
+<httpSample t="321" lt="165" ts="1494600695898" s="true" lb="Automation Testing Category Page" rc="200" rm="OK" tn="Testing Diaries 1-1" dt="text" by="44776"/>
+
+</testResults>

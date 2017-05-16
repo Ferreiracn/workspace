@@ -1,0 +1,51 @@
+2017/05/12 14:51:33 INFO  - jmeter.util.JMeterUtils: Setting Locale to en 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: Loading user properties from: /var/jenkins_home/jobs/JMeter_neo_test/workspace/samples/hello-world/target/jmeter/bin/user.properties 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: Loading system properties from: /var/jenkins_home/jobs/JMeter_neo_test/workspace/samples/hello-world/target/jmeter/bin/system.properties 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: Copyright (c) 1998-2012 The Apache Software Foundation 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: Version 2.6 r1237317 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: java.version=1.8.0_131 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: os.name=Linux 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: os.arch=amd64 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: os.version=3.10.0-514.10.2.el7.x86_64 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: Default Locale=English 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: JMeter  Locale=English 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: JMeterHome=/var/jenkins_home/jobs/JMeter_neo_test/workspace/samples/hello-world/target/jmeter 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: user.dir  =/var/jenkins_home/jobs/JMeter_neo_test/workspace/samples/hello-world/target/jmeter/bin 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: PWD       =/var/jenkins_home/jobs/JMeter_neo_test/workspace/samples/hello-world/target/jmeter/bin 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: IP: 172.18.0.4 Name: a2387b775da5 FullName: a2387b775da5 
+2017/05/12 14:51:33 INFO  - jmeter.services.FileServer: Default base='/var/jenkins_home/jobs/JMeter_neo_test/workspace/samples/hello-world/target/jmeter/bin' 
+2017/05/12 14:51:33 INFO  - jmeter.services.FileServer: Set new base='/var/jenkins_home/jobs/JMeter_neo_test/workspace/samples/hello-world/src/test/jmeter' 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: Loading file: /var/jenkins_home/jobs/JMeter_neo_test/workspace/samples/hello-world/src/test/jmeter/Testing Diaries.jmx 
+2017/05/12 14:51:33 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2017/05/12 14:51:33 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2017/05/12 14:51:33 INFO  - jmeter.save.SaveService: Using SaveService properties file version 1234216 
+2017/05/12 14:51:33 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.2 
+2017/05/12 14:51:33 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2017/05/12 14:51:33 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2017/05/12 14:51:33 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2017/05/12 14:51:33 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2017/05/12 14:51:33 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2017/05/12 14:51:33 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2017/05/12 14:51:33 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2017/05/12 14:51:33 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Reuse SSL session context on subsequent iterations: true 
+2017/05/12 14:51:33 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2017/05/12 14:51:33 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2017/05/12 14:51:33 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2017/05/12 14:51:33 INFO  - jmeter.JMeter: Running test (1494600693890) 
+2017/05/12 14:51:33 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Testing Diaries. 
+2017/05/12 14:51:33 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2017/05/12 14:51:33 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2017/05/12 14:51:33 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2017/05/12 14:51:33 INFO  - jmeter.engine.StandardJMeterEngine: All threads have been started 
+2017/05/12 14:51:33 INFO  - jmeter.threads.JMeterThread: Thread started: Testing Diaries 1-1 
+2017/05/12 14:51:33 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Maximum connection retries = 10 
+2017/05/12 14:51:33 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2017/05/12 14:51:33 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2017/05/12 14:51:33 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2017/05/12 14:51:33 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2017/05/12 14:51:36 INFO  - jmeter.threads.JMeterThread: Thread finished: Testing Diaries 1-1 
+2017/05/12 14:51:36 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Testing Diaries 1-1 
+2017/05/12 14:51:36 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2017/05/12 14:51:36 INFO  - jmeter.engine.StandardJMeterEngine: Test has ended on host null 
